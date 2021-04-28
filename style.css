@@ -1,0 +1,47 @@
+#s1{
+background-color: blue;
+    width: 100%;
+}
+#p1{
+    font-style: italic;
+    margin-top: 50px;
+}
+body{
+    text-align: center;
+}
+#p1{
+    margin-top: 60px;
+    font-style: italic;
+}
+h3{
+    margin-top: 60px;
+}
+iframe{
+    margin-top: 100px;
+}
+.m{
+     list-style: none;
+   margin-top:  0px;
+    cursor: progress;
+    z-index: 10;
+    position:fixed;
+    background: white;
+    width: 100%;
+}
+.links:hover{
+    font-size: 25px;
+    text-decoration: underline;
+}
+.links{
+    padding-top: 5px;
+    font-size: 20px;
+    padding-left: 10px;
+    display: inline;
+}
+
+.line{
+    height: 10px;
+    width: 100px;
+    background-color: #000;
+    margin: 8px auto;
+}
